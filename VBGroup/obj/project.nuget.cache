@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+8VGi24lY4=",
+  "success": true,
+  "projectFilePath": "D:\\01.업무\\03.업무내용\\01.진행중\\2025.02~.VBG R&D\\02.파일\\03.통합 프로젝트\\92.250508_test3\\Linetek\\VBGroup\\VBGroup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linetek\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\jetbrains.annotations\\2024.3.0\\jetbrains.annotations.2024.3.0.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\nice3point.revit.api.revitapi\\2023.1.60\\nice3point.revit.api.revitapi.2023.1.60.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\nice3point.revit.api.revitapiui\\2023.1.60\\nice3point.revit.api.revitapiui.2023.1.60.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\nice3point.revit.build.tasks\\3.0.1\\nice3point.revit.build.tasks.3.0.1.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\nice3point.revit.extensions\\2023.4.1\\nice3point.revit.extensions.2023.4.1.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\nice3point.revit.toolkit\\2023.3.0\\nice3point.revit.toolkit.2023.3.0.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\system.numerics.vectors\\4.6.0\\system.numerics.vectors.4.6.0.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.0\\system.runtime.compilerservices.unsafe.6.1.0.nupkg.sha512",
+    "C:\\Users\\Linetek\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
