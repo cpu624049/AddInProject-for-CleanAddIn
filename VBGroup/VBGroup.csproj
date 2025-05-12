@@ -53,53 +53,61 @@
 
     <ItemGroup>
         <!-- Revit References -->
-        <PackageReference Include="Nice3point.Revit.Build.Tasks" Version="3.0.1"/>
-        <PackageReference Include="Nice3point.Revit.Toolkit" Version="$(RevitVersion).*"/>
-        <PackageReference Include="Nice3point.Revit.Extensions" Version="$(RevitVersion).*"/>
-        <PackageReference Include="Nice3point.Revit.Api.RevitAPI" Version="$(RevitVersion).*"/>
-        <PackageReference Include="Nice3point.Revit.Api.RevitAPIUI" Version="$(RevitVersion).*"/>
+        <PackageReference Include="Nice3point.Revit.Build.Tasks" Version="3.0.1" />
+        <PackageReference Include="Nice3point.Revit.Toolkit" Version="$(RevitVersion).*" />
+        <PackageReference Include="Nice3point.Revit.Extensions" Version="$(RevitVersion).*" />
+        <PackageReference Include="Nice3point.Revit.Api.RevitAPI" Version="$(RevitVersion).*" />
+        <PackageReference Include="Nice3point.Revit.Api.RevitAPIUI" Version="$(RevitVersion).*" />
 
         <!-- MVVM -->
-        <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0"/>
+        <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
     </ItemGroup>
 
     <ItemGroup>
-        <Resource Include="Resources\Icons\RibbonIcon16.png"/>
-        <Resource Include="Resources\Icons\RibbonIcon32.png"/>
-        <Resource Include="Resources\Icons\A0_16x16.png"/>
-        <Resource Include="Resources\Icons\A0_32x32.png"/>
-        <Resource Include="Resources\Icons\A1_16x16.png"/>
-        <Resource Include="Resources\Icons\A1_32x32.png"/>
-        <Resource Include="Resources\Icons\A2_16x16.png"/>
-        <Resource Include="Resources\Icons\A2_32x32.png"/>
-        <Resource Include="Resources\Icons\A3_16x16.png"/>
-        <Resource Include="Resources\Icons\A3_32x32.png"/>
-        <Resource Include="Resources\Icons\A4_16x16.png"/>
-        <Resource Include="Resources\Icons\A4_32x32.png"/>
-        <Resource Include="Resources\Icons\A5_16x16.png"/>
-        <Resource Include="Resources\Icons\A5_32x32.png"/>
-        <Resource Include="Resources\Icons\A6_16x16.png"/>
-        <Resource Include="Resources\Icons\A6_32x32.png"/>
-        <Resource Include="Resources\Icons\A7_16x16.png"/>
-        <Resource Include="Resources\Icons\A7_32x32.png"/>
-        <Resource Include="Resources\Icons\A8_16x16.png"/>
-        <Resource Include="Resources\Icons\A8_32x32.png"/>
-        <Resource Include="Resources\Icons\A9_16x16.png"/>
-        <Resource Include="Resources\Icons\A9_32x32.png"/>
-        <Resource Include="Resources\Icons\A10_16x16.png"/>
-        <Resource Include="Resources\Icons\A10_32x32.png"/>
-        <Resource Include="Resources\Icons\A11_16x16.png"/>
-        <Resource Include="Resources\Icons\A11_32x32.png"/>
-        <Resource Include="Resources\Icons\A12_16x16.png"/>
-        <Resource Include="Resources\Icons\A12_32x32.png"/>
-        <Resource Include="Resources\Icons\A13_16x16.png"/>
-        <Resource Include="Resources\Icons\A13_32x32.png"/>
-        <Resource Include="Resources\Icons\A14_16x16.png"/>
-        <Resource Include="Resources\Icons\A14_32x32.png"/>
-        <Resource Include="Resources\Icons\cadlink_16x16.png"/>
-        <Resource Include="Resources\Icons\cadlink_32x32.png"/>
-        <Resource Include="Resources\Icons\materialexcel_16x16.png"/>
-        <Resource Include="Resources\Icons\materialexcel_32x32.png"/>
+        <Resource Include="Resources\Icons\RibbonIcon16.png" />
+        <Resource Include="Resources\Icons\RibbonIcon32.png" />
+        <Resource Include="Resources\Icons\A0_16x16.png" />
+        <Resource Include="Resources\Icons\A0_32x32.png" />
+        <Resource Include="Resources\Icons\A1_16x16.png" />
+        <Resource Include="Resources\Icons\A1_32x32.png" />
+        <Resource Include="Resources\Icons\A2_16x16.png" />
+        <Resource Include="Resources\Icons\A2_32x32.png" />
+        <Resource Include="Resources\Icons\A3_16x16.png" />
+        <Resource Include="Resources\Icons\A3_32x32.png" />
+        <Resource Include="Resources\Icons\A4_16x16.png" />
+        <Resource Include="Resources\Icons\A4_32x32.png" />
+        <Resource Include="Resources\Icons\A5_16x16.png" />
+        <Resource Include="Resources\Icons\A5_32x32.png" />
+        <Resource Include="Resources\Icons\A6_16x16.png" />
+        <Resource Include="Resources\Icons\A6_32x32.png" />
+        <Resource Include="Resources\Icons\A7_16x16.png" />
+        <Resource Include="Resources\Icons\A7_32x32.png" />
+        <Resource Include="Resources\Icons\A8_16x16.png" />
+        <Resource Include="Resources\Icons\A8_32x32.png" />
+        <Resource Include="Resources\Icons\A9_16x16.png" />
+        <Resource Include="Resources\Icons\A9_32x32.png" />
+        <Resource Include="Resources\Icons\A10_16x16.png" />
+        <Resource Include="Resources\Icons\A10_32x32.png" />
+        <Resource Include="Resources\Icons\A11_16x16.png" />
+        <Resource Include="Resources\Icons\A11_32x32.png" />
+        <Resource Include="Resources\Icons\A12_16x16.png" />
+        <Resource Include="Resources\Icons\A12_32x32.png" />
+        <Resource Include="Resources\Icons\A13_16x16.png" />
+        <Resource Include="Resources\Icons\A13_32x32.png" />
+        <Resource Include="Resources\Icons\A14_16x16.png" />
+        <Resource Include="Resources\Icons\A14_32x32.png" />
+        <Resource Include="Resources\Icons\cadlink_16x16.png" />
+        <Resource Include="Resources\Icons\cadlink_32x32.png" />
+        <Resource Include="Resources\Icons\materialexcel_16x16.png" />
+        <Resource Include="Resources\Icons\materialexcel_32x32.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Commands\SonDetailFilter\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="System.Windows.Forms" />
     </ItemGroup>
 
 </Project>
