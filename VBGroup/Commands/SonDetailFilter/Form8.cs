@@ -7,7 +7,8 @@ using System.Linq;
 using System.Windows.Forms;
 using System.Drawing;
 using Color = System.Drawing.Color;
-using View = Autodesk.Revit.DB.View; // ❗ 필요
+using View = Autodesk.Revit.DB.View;
+using TaskDialog = Autodesk.Revit.UI.TaskDialog; // ❗ 필요
 
 
 

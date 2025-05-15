@@ -3,6 +3,7 @@ using Autodesk.Revit.UI;
 using System;
 using System.Collections.Generic;
 using VBGroup.Commands.SonDetailFilter;
+using TaskDialog = Autodesk.Revit.UI.TaskDialog;
 
 public class DeleteElementsHandler : IExternalEventHandler
 {

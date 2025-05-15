@@ -14,7 +14,7 @@ public class ApplyGraphicsOverrideHandler : IExternalEventHandler
 
 
     public Document Doc { get; set; }
-    public View View { get; set; }
+    public Autodesk.Revit.DB.View View { get; set; }
     public List<ElementId> TargetElementIds { get; set; } = new List<ElementId>();
     public Autodesk.Revit.DB.Color ColorToApply { get; set; }
 

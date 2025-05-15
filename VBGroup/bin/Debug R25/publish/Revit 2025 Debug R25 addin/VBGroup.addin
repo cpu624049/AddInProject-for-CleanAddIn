@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>VBGroup</Name>
+    <Assembly>VBGroup\VBGroup.dll</Assembly>
+    <AddInId>13909C4B-C05B-4F44-B098-511395D3027D</AddInId>
+    <FullClassName>VBGroup.Application</FullClassName>
+    <VendorId>Development</VendorId>
+    <VendorDescription></VendorDescription>
+    <VendorEmail></VendorEmail>
+  </AddIn>
+</RevitAddIns>
