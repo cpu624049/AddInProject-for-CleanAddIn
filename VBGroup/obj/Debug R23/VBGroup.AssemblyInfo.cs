@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VBGroup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug R23")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2691c2a30fb78e044c770719cbd521cb4012dae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6989549a328ce3c8c348350a9b0de38f5a03a33e")]
 [assembly: System.Reflection.AssemblyProductAttribute("VBGroup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VBGroup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

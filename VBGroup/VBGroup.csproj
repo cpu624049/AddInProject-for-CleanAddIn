@@ -48,8 +48,16 @@
     <!-- Build configuration -->
     <!-- https://github.com/Nice3point/Revit.Build.Tasks -->
     <PropertyGroup>
+        <!-- Revit.Build.Tasks 동작 제어 속성 -->
         <IsRepackable>false</IsRepackable>
         <DeployRevitAddin>true</DeployRevitAddin>
+
+        <!-- 출력 경로 설정 옵션 추가 -->
+        <!-- 1) Publish 단계 활성화 (라이브러리 복사만 하고, Deploy는 AppData 복사) -->
+        <PublishRevitAddin>true</PublishRevitAddin>
+
+        <!-- 2) Publish(빌드 결과) 출력 경로 지정 -->
+        <PublishDir>\\idea\전사공유자료\R&amp;D\애드인 배포\배포시 필요 파일\Addins</PublishDir>
     </PropertyGroup>
 
     <ItemGroup>

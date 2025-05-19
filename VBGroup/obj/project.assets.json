@@ -31,7 +31,7 @@
           }
         }
       },
-      "Nice3point.Revit.Api.RevitAPI/2025.4.0": {
+      "Nice3point.Revit.Api.RevitAPI/2026.0.4": {
         "type": "package",
         "compile": {
           "ref/net8.0/RevitAPI.dll": {
@@ -39,7 +39,7 @@
           }
         }
       },
-      "Nice3point.Revit.Api.RevitAPIUI/2025.4.0": {
+      "Nice3point.Revit.Api.RevitAPIUI/2026.0.4": {
         "type": "package",
         "compile": {
           "ref/net8.0/RevitAPIUI.dll": {
@@ -54,7 +54,7 @@
           "build/Nice3point.Revit.Build.Tasks.targets": {}
         }
       },
-      "Nice3point.Revit.Extensions/2025.1.1": {
+      "Nice3point.Revit.Extensions/2026.0.1": {
         "type": "package",
         "dependencies": {
           "JetBrains.Annotations": "2024.3.0"
@@ -73,7 +73,7 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
-      "Nice3point.Revit.Toolkit/2025.1.0": {
+      "Nice3point.Revit.Toolkit/2026.0.0": {
         "type": "package",
         "compile": {
           "lib/net8.0-windows7.0/Nice3point.Revit.Toolkit.dll": {
@@ -157,33 +157,33 @@
         "readme.md"
       ]
     },
-    "Nice3point.Revit.Api.RevitAPI/2025.4.0": {
-      "sha512": "jDiTI9FOETVYBEE5UE3yeH+YwA+dAfAaisR/W+13G3wQd5d01+TdKCSwoTgOXoIqA1NcdjY1Nv6jDdICJhMC2Q==",
+    "Nice3point.Revit.Api.RevitAPI/2026.0.4": {
+      "sha512": "PzTkkmadOePSFt/Z5Z97uJIMvhJmqBElKSju74hRGVNP6efejAZnbtWbsRZiPHaN+1D4xH4Zckysr4Z1/so1FQ==",
       "type": "package",
-      "path": "nice3point.revit.api.revitapi/2025.4.0",
+      "path": "nice3point.revit.api.revitapi/2026.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "License.md",
         "Readme.md",
         "images/PackageIcon.png",
-        "nice3point.revit.api.revitapi.2025.4.0.nupkg.sha512",
+        "nice3point.revit.api.revitapi.2026.0.4.nupkg.sha512",
         "nice3point.revit.api.revitapi.nuspec",
         "ref/net8.0/RevitAPI.dll",
         "ref/net8.0/RevitAPI.xml"
       ]
     },
-    "Nice3point.Revit.Api.RevitAPIUI/2025.4.0": {
-      "sha512": "yoenSaS67p6UsSt/GC+f3w8hG8Hrm3Ux23P5d08nL6iw4e30OC5MFUJxddRNzMoysR1bd1ksQpVw+IsAliJHMA==",
+    "Nice3point.Revit.Api.RevitAPIUI/2026.0.4": {
+      "sha512": "jcDgCWWyAHSwEYjbEzYO2J5PiopS6sGfuZwpX3mdbn+G998xj036h3JmPUlrLNW8sfIX9dlSn0aIWfoagXDxnw==",
       "type": "package",
-      "path": "nice3point.revit.api.revitapiui/2025.4.0",
+      "path": "nice3point.revit.api.revitapiui/2026.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "License.md",
         "Readme.md",
         "images/PackageIcon.png",
-        "nice3point.revit.api.revitapiui.2025.4.0.nupkg.sha512",
+        "nice3point.revit.api.revitapiui.2026.0.4.nupkg.sha512",
         "nice3point.revit.api.revitapiui.nuspec",
         "ref/net8.0/RevitAPIUI.dll",
         "ref/net8.0/RevitAPIUI.xml"
@@ -213,10 +213,10 @@
         "tasks/net8.0/Nice3point.Revit.Build.Tasks.dll"
       ]
     },
-    "Nice3point.Revit.Extensions/2025.1.1": {
-      "sha512": "Nnvo1vLf1I+Enp21wZS54R3pYylgAQwg3/WkgrGf7XLufZh9G9oXUf3R238u6JsYSmxLuBI1L5pbS6Z1zR/Rvw==",
+    "Nice3point.Revit.Extensions/2026.0.1": {
+      "sha512": "OuOJTaT8Xom+abcDBDAyeiSgy4SRh02OBIlUKpSj2eLcgQ4ny3UylmXaMx7JanhJia+J/6fHVwwniiAd46is6g==",
       "type": "package",
-      "path": "nice3point.revit.extensions/2025.1.1",
+      "path": "nice3point.revit.extensions/2026.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -225,14 +225,14 @@
         "images/PackageIcon.png",
         "lib/net8.0-windows7.0/Nice3point.Revit.Extensions.dll",
         "lib/net8.0-windows7.0/Nice3point.Revit.Extensions.xml",
-        "nice3point.revit.extensions.2025.1.1.nupkg.sha512",
+        "nice3point.revit.extensions.2026.0.1.nupkg.sha512",
         "nice3point.revit.extensions.nuspec"
       ]
     },
-    "Nice3point.Revit.Toolkit/2025.1.0": {
-      "sha512": "hXVST6Ca19yU83gCt/mfqODsdx4bUFZutaFvOrrkA8ubxaxEoT1+IQTOQpom5I/Ld4JGSaS1fNEsgqI0VjuQ2g==",
+    "Nice3point.Revit.Toolkit/2026.0.0": {
+      "sha512": "oumOLDLE/NIkZ7sGocx2aVAJrtnQTp4MXsUziJMKmG3tFeT3MaodU4agcQQiqa/iknU+stl/6XNjHz2vejugrg==",
       "type": "package",
-      "path": "nice3point.revit.toolkit/2025.1.0",
+      "path": "nice3point.revit.toolkit/2026.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -241,7 +241,7 @@
         "images/PackageIcon.png",
         "lib/net8.0-windows7.0/Nice3point.Revit.Toolkit.dll",
         "lib/net8.0-windows7.0/Nice3point.Revit.Toolkit.xml",
-        "nice3point.revit.toolkit.2025.1.0.nupkg.sha512",
+        "nice3point.revit.toolkit.2026.0.0.nupkg.sha512",
         "nice3point.revit.toolkit.nuspec"
       ]
     }
@@ -249,11 +249,11 @@
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
       "CommunityToolkit.Mvvm >= 8.4.0",
-      "Nice3point.Revit.Api.RevitAPI >= 2025.*",
-      "Nice3point.Revit.Api.RevitAPIUI >= 2025.*",
+      "Nice3point.Revit.Api.RevitAPI >= 2026.*",
+      "Nice3point.Revit.Api.RevitAPIUI >= 2026.*",
       "Nice3point.Revit.Build.Tasks >= 3.0.1",
-      "Nice3point.Revit.Extensions >= 2025.*",
-      "Nice3point.Revit.Toolkit >= 2025.*"
+      "Nice3point.Revit.Extensions >= 2026.*",
+      "Nice3point.Revit.Toolkit >= 2026.*"
     ]
   },
   "packageFolders": {
@@ -313,11 +313,11 @@
           },
           "Nice3point.Revit.Api.RevitAPI": {
             "target": "Package",
-            "version": "[2025.*, )"
+            "version": "[2026.*, )"
           },
           "Nice3point.Revit.Api.RevitAPIUI": {
             "target": "Package",
-            "version": "[2025.*, )"
+            "version": "[2026.*, )"
           },
           "Nice3point.Revit.Build.Tasks": {
             "target": "Package",
@@ -325,11 +325,11 @@
           },
           "Nice3point.Revit.Extensions": {
             "target": "Package",
-            "version": "[2025.*, )"
+            "version": "[2026.*, )"
           },
           "Nice3point.Revit.Toolkit": {
             "target": "Package",
-            "version": "[2025.*, )"
+            "version": "[2026.*, )"
           }
         },
         "imports": [
