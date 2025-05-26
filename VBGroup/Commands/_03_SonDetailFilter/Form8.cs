@@ -1,18 +1,11 @@
-﻿using Autodesk.Revit.DB;
-using Autodesk.Revit.UI;
-using System;
-using System.Collections.Generic;
+﻿using Autodesk.Revit.UI;
 using System.Diagnostics;
-using System.Linq;
-using System.Windows.Forms;
-using System.Drawing;
-using Color = System.Drawing.Color;
-using View = Autodesk.Revit.DB.View;
-using TaskDialog = Autodesk.Revit.UI.TaskDialog; // ❗ 필요
+using systemColor = System.Drawing.Color;
+using revitTaskDialog = Autodesk.Revit.UI.TaskDialog; // ❗ 필요
 
 
 
-namespace VBGroup.Commands.SonDetailFilter
+namespace VBGroup.Commands._03_SonDetailFilter
 {
     public partial class Form8 : System.Windows.Forms.Form
     {
@@ -186,7 +179,7 @@ namespace VBGroup.Commands.SonDetailFilter
                     }
                     catch (Autodesk.Revit.Exceptions.InvalidObjectException ex)
                     {
-                        TaskDialog.Show("Error", $"Failed to delete elements: {ex.Message}");
+                        revitTaskDialog.Show("Error", $"Failed to delete elements: {ex.Message}");
                         return;
                     }
                 }
@@ -1217,7 +1210,7 @@ namespace VBGroup.Commands.SonDetailFilter
                 }
                 else
                 {
-                    Color color = Color.FromName(colorName);
+                    systemColor color = systemColor.FromName(colorName);
                     using (SolidBrush brush = new SolidBrush(color))
                     {
                         e.Graphics.FillRectangle(brush, e.Bounds.Left + 2, e.Bounds.Top + 2, 20, e.Bounds.Height - 4);

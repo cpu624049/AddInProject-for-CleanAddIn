@@ -8,7 +8,6 @@ D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 �
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\bin\Debug R26\Nice3point.Revit.Toolkit.dll
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\VBGroup.csproj.AssemblyReference.cache
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\VBGroup.g.resources
-D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\VBGroup.Commands.SonDetailFilter.Form8.resources
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\VBGroup.csproj.GenerateResource.cache
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\VBGroup.GeneratedMSBuildEditorConfig.editorconfig
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\VBGroup.AssemblyInfoInputs.cache
@@ -21,3 +20,4 @@ D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 �
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\VBGroup.pdb
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\VBGroup.genruntimeconfig.cache
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\ref\VBGroup.dll
+D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R26\VBGroup.Commands._03_SonDetailFilter.Form8.resources

@@ -1,6 +1,4 @@
-﻿using Autodesk.Revit.DB;
-using Autodesk.Revit.UI;
-using System.Collections.Generic;
+﻿using Autodesk.Revit.UI;
 
 public class IsolateElementsHandler : IExternalEventHandler
 {

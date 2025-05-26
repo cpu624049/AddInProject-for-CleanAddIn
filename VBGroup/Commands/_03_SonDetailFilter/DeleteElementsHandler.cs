@@ -1,9 +1,6 @@
-﻿using Autodesk.Revit.DB;
-using Autodesk.Revit.UI;
-using System;
-using System.Collections.Generic;
-using VBGroup.Commands.SonDetailFilter;
-using TaskDialog = Autodesk.Revit.UI.TaskDialog;
+﻿using Autodesk.Revit.UI;
+using VBGroup.Commands._03_SonDetailFilter;
+using revitTaskDialog = Autodesk.Revit.UI.TaskDialog;
 
 public class DeleteElementsHandler : IExternalEventHandler
 {
@@ -45,7 +42,7 @@ public class DeleteElementsHandler : IExternalEventHandler
             catch (Exception ex)
             {
                 transaction.RollBack();
-                TaskDialog.Show("Error", $"Failed to delete elements: {ex.Message}");
+                revitTaskDialog.Show("Error", $"Failed to delete elements: {ex.Message}");
             }
 
         }

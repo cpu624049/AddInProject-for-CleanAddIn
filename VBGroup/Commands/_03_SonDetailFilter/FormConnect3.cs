@@ -1,9 +1,7 @@
 ﻿using Autodesk.Revit.Attributes;
-using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using System.Collections.Generic;
 
-namespace VBGroup.Commands.SonDetailFilter
+namespace VBGroup.Commands._03_SonDetailFilter
 {
     [Transaction(TransactionMode.Manual)]
     public class FormConnect3 : IExternalCommand // Detail Filter

@@ -1,4 +1,4 @@
-﻿namespace VBGroup.Commands.SonDetailFilter
+﻿namespace VBGroup.Commands._03_SonDetailFilter
 {
     partial class Form8
     {
