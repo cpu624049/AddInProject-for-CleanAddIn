@@ -1,9 +1,7 @@
-﻿using Autodesk.Revit.DB;
-using Autodesk.Revit.UI;
-using System;
-using System.Collections.Generic;
+﻿using Autodesk.Revit.UI;
 using System.Diagnostics;
 using revitView = Autodesk.Revit.DB.View;
+using revitTaskDialog = Autodesk.Revit.UI.TaskDialog;
 
 namespace VBGroup.Commands._01_SonMultiDuplicateView
 {
@@ -20,7 +18,7 @@ namespace VBGroup.Commands._01_SonMultiDuplicateView
 
             if (Document == null || SelectedViews == null || SelectedViews.Count == 0)
             {
-                TaskDialog.Show("Error", "Document 또는 SelectedViews가 설정되지 않았습니다.");
+                revitTaskDialog.Show("Error", "Document 또는 SelectedViews가 설정되지 않았습니다.");
                 return;
             }
 
@@ -62,7 +60,7 @@ namespace VBGroup.Commands._01_SonMultiDuplicateView
                 catch (Exception ex)
                 {
                     Debug.WriteLine($"[Error] Transaction 오류 발생: {ex.Message}");
-                    TaskDialog.Show("Error", $"Transaction 실행 중 오류가 발생했습니다:\n{ex.Message}");
+                    revitTaskDialog.Show("Error", $"Transaction 실행 중 오류가 발생했습니다:\n{ex.Message}");
                     trans.RollBack();
                 }
             }

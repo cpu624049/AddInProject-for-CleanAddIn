@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\commands\\_02_sonmultiexportnwc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\commands\\_02_sonmultiexportnwc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\_01_wpfdetailfilter\\views\\detailfilterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\_01_wpfdetailfilter\\views\\detailfilterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\_01_wpfdetailfilter\\commands\\detailfiltercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\_01_wpfdetailfilter\\commands\\detailfiltercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\_01_wpfdetailfilter\\viewmodels\\detailfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\_01_wpfdetailfilter\\viewmodels\\detailfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\_01_wpfdetailfilter\\externalevents\\detailfiltereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\_01_wpfdetailfilter\\externalevents\\detailfiltereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\_01_wpfdetailfilter\\views\\detailfilterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\_01_wpfdetailfilter\\views\\detailfilterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\_01_wpfdetailfilter\\viewmodels\\elementnodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\_01_wpfdetailfilter\\viewmodels\\elementnodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\commands\\_02_sonmultiexportnwc\\opendocumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\commands\\_02_sonmultiexportnwc\\opendocumenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\commands\\_02_sonmultiexportnwc\\formconnect8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\commands\\_02_sonmultiexportnwc\\formconnect8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|d:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.vbg r\u0026d\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\linetek\\vbgroup\\commands\\_02_sonmultiexportnwc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5543009A-5521-4508-AEDF-EF598B6E6010}|VBGroup\\VBGroup.csproj|solutionrelative:vbgroup\\commands\\_02_sonmultiexportnwc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,66 +59,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Commands\\_02_SonMultiExportNWC\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "VBGroup\\Commands\\_02_SonMultiExportNWC\\Form1.Designer.cs",
-              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Commands\\_02_SonMultiExportNWC\\Form1.Designer.cs",
-              "RelativeToolTip": "VBGroup\\Commands\\_02_SonMultiExportNWC\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:48:41.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormConnect8.cs",
-              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Commands\\_02_SonMultiExportNWC\\FormConnect8.cs",
-              "RelativeDocumentMoniker": "VBGroup\\Commands\\_02_SonMultiExportNWC\\FormConnect8.cs",
-              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Commands\\_02_SonMultiExportNWC\\FormConnect8.cs",
-              "RelativeToolTip": "VBGroup\\Commands\\_02_SonMultiExportNWC\\FormConnect8.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:48:00.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OpenDocumentHandler.cs",
-              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Commands\\_02_SonMultiExportNWC\\OpenDocumentHandler.cs",
-              "RelativeDocumentMoniker": "VBGroup\\Commands\\_02_SonMultiExportNWC\\OpenDocumentHandler.cs",
-              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Commands\\_02_SonMultiExportNWC\\OpenDocumentHandler.cs",
-              "RelativeToolTip": "VBGroup\\Commands\\_02_SonMultiExportNWC\\OpenDocumentHandler.cs",
+              "Title": "DetailFilterWindow.xaml.cs",
+              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\Views\\DetailFilterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VBGroup\\_01_WPFDetailFilter\\Views\\DetailFilterWindow.xaml.cs",
+              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\Views\\DetailFilterWindow.xaml.cs",
+              "RelativeToolTip": "VBGroup\\_01_WPFDetailFilter\\Views\\DetailFilterWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:48:00.022Z",
+              "WhenOpened": "2025-06-02T02:12:13.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Commands\\_02_SonMultiExportNWC\\Form1.cs",
-              "RelativeDocumentMoniker": "VBGroup\\Commands\\_02_SonMultiExportNWC\\Form1.cs",
-              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Commands\\_02_SonMultiExportNWC\\Form1.cs",
-              "RelativeToolTip": "VBGroup\\Commands\\_02_SonMultiExportNWC\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Title": "DetailFilterWindow.xaml",
+              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\Views\\DetailFilterWindow.xaml",
+              "RelativeDocumentMoniker": "VBGroup\\_01_WPFDetailFilter\\Views\\DetailFilterWindow.xaml",
+              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\Views\\DetailFilterWindow.xaml",
+              "RelativeToolTip": "VBGroup\\_01_WPFDetailFilter\\Views\\DetailFilterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T02:12:12.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailFilterEventHandler.cs",
+              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\ExternalEvents\\DetailFilterEventHandler.cs",
+              "RelativeDocumentMoniker": "VBGroup\\_01_WPFDetailFilter\\ExternalEvents\\DetailFilterEventHandler.cs",
+              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\ExternalEvents\\DetailFilterEventHandler.cs",
+              "RelativeToolTip": "VBGroup\\_01_WPFDetailFilter\\ExternalEvents\\DetailFilterEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:47:57.621Z",
+              "WhenOpened": "2025-06-02T02:11:49.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DetailFilterCommand.cs",
+              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\Commands\\DetailFilterCommand.cs",
+              "RelativeDocumentMoniker": "VBGroup\\_01_WPFDetailFilter\\Commands\\DetailFilterCommand.cs",
+              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\Commands\\DetailFilterCommand.cs",
+              "RelativeToolTip": "VBGroup\\_01_WPFDetailFilter\\Commands\\DetailFilterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:11:47.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailFilterViewModel.cs",
+              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\ViewModels\\DetailFilterViewModel.cs",
+              "RelativeDocumentMoniker": "VBGroup\\_01_WPFDetailFilter\\ViewModels\\DetailFilterViewModel.cs",
+              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\ViewModels\\DetailFilterViewModel.cs",
+              "RelativeToolTip": "VBGroup\\_01_WPFDetailFilter\\ViewModels\\DetailFilterViewModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAawCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:09:48.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElementNodeViewModel.cs",
+              "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\ViewModels\\ElementNodeViewModel.cs",
+              "RelativeDocumentMoniker": "VBGroup\\_01_WPFDetailFilter\\ViewModels\\ElementNodeViewModel.cs",
+              "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\_01_WPFDetailFilter\\ViewModels\\ElementNodeViewModel.cs",
+              "RelativeToolTip": "VBGroup\\_01_WPFDetailFilter\\ViewModels\\ElementNodeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:09:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Application.cs",
               "DocumentMoniker": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Application.cs",
               "RelativeDocumentMoniker": "VBGroup\\Application.cs",
               "ToolTip": "D:\\01.\uC5C5\uBB34\\03.\uC5C5\uBB34\uB0B4\uC6A9\\01.\uC9C4\uD589\uC911\\2025.02~.VBG R\u0026D\\02.\uD30C\uC77C\\03.\uD1B5\uD569 \uD504\uB85C\uC81D\uD2B8\\92.250508_test3\\Linetek\\VBGroup\\Application.cs",
               "RelativeToolTip": "VBGroup\\Application.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T06:45:12.527Z",
+              "WhenOpened": "2025-06-02T02:08:45.702Z",
               "EditorCaption": ""
             }
           ]

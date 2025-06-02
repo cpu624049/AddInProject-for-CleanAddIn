@@ -1,0 +1,78 @@
+﻿<Window x:Class="VBGroup._01_WPFDetailFilter.Views.DetailFilterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Detail Filter" Height="500" Width="500" MinWidth="400" MinHeight="300">
+    <Grid Margin="10">
+
+        <!-- 행 정의: 헤더 / 본문 / 푸터 -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- 열 정의: 트리뷰 / 선택 버튼 패널 -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Row 0: 헤더 - 전체 선택 개수/체크 개수 -->
+        <StackPanel Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"
+                Orientation="Horizontal" Margin="0,0,0,5">
+            <TextBlock Text="카테고리:" FontWeight="Bold" VerticalAlignment="Center"/>
+            <TextBlock Text="{Binding TotalSelectedCount, Mode=OneWay}" Margin="5,0" VerticalAlignment="Center"/>
+            <TextBlock Text="개수:"    FontWeight="Bold" VerticalAlignment="Center"/>
+            <TextBlock Text="{Binding CheckedCount, Mode=OneWay}" Margin="5,0" VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- Row 1, Col 0: TreeView - 선택 객체 계층 출력 -->
+        <TreeView Grid.Row="1" Grid.Column="0"
+              ItemsSource="{Binding RootNodes}"
+              Margin="0,0,5,0">
+            <TreeView.ItemTemplate>
+                <HierarchicalDataTemplate ItemsSource="{Binding Children}">
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox IsChecked="{Binding IsChecked, Mode=TwoWay}" VerticalAlignment="Center"/>
+                        <TextBlock Text="{Binding Name}" Margin="4,0"/>
+                    </StackPanel>
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+
+        <!-- Row 1, Col 1: Select All / Deselect All 버튼 -->
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="5,0,0,0"
+                VerticalAlignment="Top">
+            <Button Content="모두 선택(A)" Width="100" Margin="0,0,0,5"
+              Command="{Binding SelectAllCommand}"/>
+            <Button Content="모두 선택 안 함(N)" Width="100"
+              Command="{Binding DeselectAllCommand}"/>
+            <!-- 필요 시 SelectAllCommand, DeselectAllCommand 구현 -->
+        </StackPanel>
+
+        <!-- Row 2: 푸터 - 확인/취소/적용 -->
+        <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,10,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Left: 선택된 총 객체 수 (다시 표시해도 무방) -->
+            <TextBlock Grid.Column="0" VerticalAlignment="Center">
+        <Run Text="전체 선택 항목: "/>
+        <Run Text="{Binding CheckedCount, Mode=OneWay}"/>
+            </TextBlock>
+
+            <!-- Right: 버튼들 -->
+            <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Content="확인" Width="75" Margin="0,0,5,0"
+                Command="{Binding ApplyCommand}"/>
+                <Button Content="취소" Width="75" Margin="0,0,5,0"
+                Command="{Binding CancelCommand}"/>
+                <Button Content="적용" Width="75"
+                Command="{Binding RefreshCommand}"/>
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>

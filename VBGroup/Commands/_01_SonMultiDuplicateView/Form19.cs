@@ -1,9 +1,5 @@
-﻿using Autodesk.Revit.DB;
-using Autodesk.Revit.UI;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Windows.Forms;
+﻿using Autodesk.Revit.UI;
+using revitTaskDialog = Autodesk.Revit.UI.TaskDialog;
 
 namespace VBGroup.Commands._01_SonMultiDuplicateView
 {
@@ -144,7 +140,7 @@ namespace VBGroup.Commands._01_SonMultiDuplicateView
 
             if (errorMessage != null)
             {
-                TaskDialog.Show("Error", errorMessage);
+                revitTaskDialog.Show("Error", errorMessage);
                 return;
             }
 
@@ -169,7 +165,7 @@ namespace VBGroup.Commands._01_SonMultiDuplicateView
 
             if (!selectedViews.Any())
             {
-                TaskDialog.Show("Error", "복제할 뷰를 선택하세요.");
+                revitTaskDialog.Show("Error", "복제할 뷰를 선택하세요.");
                 return;
             }
 

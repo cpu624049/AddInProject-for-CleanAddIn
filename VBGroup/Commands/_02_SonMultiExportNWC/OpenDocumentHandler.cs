@@ -1,11 +1,6 @@
-﻿using Autodesk.Revit.DB;
-using Autodesk.Revit.UI;
-using System;
-using System.Collections.Generic;
+﻿using Autodesk.Revit.UI;
 using System.Diagnostics;
 using System.IO;
-using System.Linq;
-using System.Windows.Forms;
 
 public class OpenDocumentHandler : IExternalEventHandler
 {

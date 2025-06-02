@@ -1,5 +1,5 @@
 ﻿using Nice3point.Revit.Toolkit.External;
-using VBGroup.Commands;
+using VBGroup._01_WPFDetailFilter.Commands;
 using VBGroup.Commands._01_SonMultiDuplicateView;
 using VBGroup.Commands._02_SonMultiExportNWC;
 using VBGroup.Commands._03_SonDetailFilter;
@@ -47,19 +47,12 @@ namespace VBGroup
                 .SetLargeImage("/VBGroup;component/Resources/Icons/A12_32x32.png")
                 .SetToolTip("디테일 필터 테스트중입니다.");
 
-            //var panel2 = Application.CreatePanel("Links", "VBGroup");
+            var panel2 = Application.CreatePanel("WPF Test", "VBGroup 2");
 
-            //panel2.AddPushButton<CommandTest2>("3번 기능")
-            //    .SetImage("/VBGroup;component/Resources/Icons/A2_16x16.png")
-            //    .SetLargeImage("/VBGroup;component/Resources/Icons/A2_32x32.png")
-            //    .SetToolTip("Line 실행 기능 111111");
-
-            //panel2.AddPushButton<CommandTest3>("4번 기능")
-            //    .SetImage("/VBGroup;component/Resources/Icons/A3_16x16.png")
-            //    .SetLargeImage("/VBGroup;component/Resources/Icons/A3_32x32.png")
-            //    .SetToolTip("Line 실행 기능 222222");
-
-
+            panel2.AddPushButton<DetailFilterCommand>("WPF Test")
+                .SetImage("/VBGroup;component/Resources/Icons/A2_16x16.png")
+                .SetLargeImage("/VBGroup;component/Resources/Icons/A2_32x32.png")
+                .SetToolTip("WPF 테스트중입니다.");
         }
     }
 }

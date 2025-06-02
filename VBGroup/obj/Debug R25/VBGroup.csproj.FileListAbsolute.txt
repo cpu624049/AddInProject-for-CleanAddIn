@@ -21,3 +21,11 @@ D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 �
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\VBGroup.genruntimeconfig.cache
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\ref\VBGroup.dll
 D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\VBGroup.Commands._03_SonDetailFilter.Form8.resources
+D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\VBGroup.Commands._01_SonMultiDuplicateView.Form19.resources
+D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\VBGroup.Commands._02_SonMultiExportNWC.Form25.resources
+D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\_01_WPFDetailFilter\Views\DetailFilterWindow.baml
+D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\_01_WPFDetailFilter\Views\DetailFilterWindow.g.cs
+D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\_02_WPF_Cursor\Views\DetailFilterView.g.cs
+D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\VBGroup_MarkupCompile.cache
+D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\VBGroup_MarkupCompile.lref
+D:\01.업무\03.업무내용\01.진행중\2025.02~.VBG R&D\02.파일\03.통합 프로젝트\92.250508_test3\Linetek\VBGroup\obj\Debug R25\_02_WPF_Cursor\Views\DetailFilterView.baml

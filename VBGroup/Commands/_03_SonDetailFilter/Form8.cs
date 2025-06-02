@@ -3,8 +3,6 @@ using System.Diagnostics;
 using systemColor = System.Drawing.Color;
 using revitTaskDialog = Autodesk.Revit.UI.TaskDialog; // ❗ 필요
 
-
-
 namespace VBGroup.Commands._03_SonDetailFilter
 {
     public partial class Form8 : System.Windows.Forms.Form

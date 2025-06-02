@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Windows.Forms;
-using Autodesk.Revit.DB;
+﻿using System.IO;
 using Autodesk.Revit.UI;
 using System.Diagnostics;
+using revitTaskDialog = Autodesk.Revit.UI.TaskDialog;
 
 namespace VBGroup.Commands._02_SonMultiExportNWC
 {
@@ -63,7 +59,7 @@ namespace VBGroup.Commands._02_SonMultiExportNWC
         {
             if (selectedRvtFilePaths == null || selectedRvtFilePaths.Count == 0)
             {
-                TaskDialog.Show("Error", "RVT 파일을 먼저 선택하세요.");
+                revitTaskDialog.Show("Error", "RVT 파일을 먼저 선택하세요.");
                 WriteDebug("[DEBUG] 선택된 RVT 파일 없음");
                 return;
             }
@@ -71,7 +67,7 @@ namespace VBGroup.Commands._02_SonMultiExportNWC
             string saveDirectory = textBox2.Text;
             if (string.IsNullOrEmpty(saveDirectory))
             {
-                TaskDialog.Show("Error", "NWC 저장 경로를 선택하세요.");
+                revitTaskDialog.Show("Error", "NWC 저장 경로를 선택하세요.");
                 WriteDebug("[DEBUG] NWC 저장 경로 없음");
                 return;
             }
@@ -79,7 +75,7 @@ namespace VBGroup.Commands._02_SonMultiExportNWC
             string viewFilterText = textBox3.Text?.Trim();  // ← 사용자가 입력한 뷰 이름 필터
             if (string.IsNullOrEmpty(viewFilterText))
             {
-                TaskDialog.Show("Error", "뷰 이름 필터를 입력하세요.");
+                revitTaskDialog.Show("Error", "뷰 이름 필터를 입력하세요.");
                 WriteDebug("[DEBUG] 뷰 이름 필터 없음");
                 return;
             }
@@ -118,7 +114,7 @@ namespace VBGroup.Commands._02_SonMultiExportNWC
 
                 if (!exportViews.Any())
                 {
-                    TaskDialog.Show("Error", $"{rvtFilePath}: '{viewFilterText}' 관련 뷰가 없습니다.");
+                    revitTaskDialog.Show("Error", $"{rvtFilePath}: '{viewFilterText}' 관련 뷰가 없습니다.");
                     WriteDebug($"[ERROR] 뷰 없음: {rvtFilePath}, 필터: {viewFilterText}");
                     return;
                 }
@@ -143,7 +139,7 @@ namespace VBGroup.Commands._02_SonMultiExportNWC
             catch (Exception ex)
             {
                 WriteDebug($"[ERROR] NWC Export 실패 ({Path.GetFileName(rvtFilePath)}): {ex.Message}");
-                TaskDialog.Show("Export Error", $"{Path.GetFileName(rvtFilePath)} Export 실패: {ex.Message}");
+                revitTaskDialog.Show("Export Error", $"{Path.GetFileName(rvtFilePath)} Export 실패: {ex.Message}");
             }
             finally
             {

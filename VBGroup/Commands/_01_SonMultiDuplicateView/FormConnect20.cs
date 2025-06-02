@@ -1,7 +1,6 @@
 ﻿using Autodesk.Revit.Attributes;
-using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using System;
+using revitTaskDialog = Autodesk.Revit.UI.TaskDialog;
 
 namespace VBGroup.Commands._01_SonMultiDuplicateView
 {
@@ -24,7 +23,7 @@ namespace VBGroup.Commands._01_SonMultiDuplicateView
             catch (Exception ex)
             {
                 message = $"오류 발생: {ex.Message}";
-                TaskDialog.Show("Error", message);
+                revitTaskDialog.Show("Error", message);
                 return Result.Failed;
             }
         }
